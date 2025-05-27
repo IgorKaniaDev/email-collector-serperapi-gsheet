@@ -1,6 +1,6 @@
 function fetchEmailsForO2O47() {
   var sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
-  var API_KEY = "e73cf99301d7894d233ae9e3a5c84c6b744240ea";
+  var API_KEY = PropertiesService.getScriptProperties().getProperty("SERPER_API_KEY");
   var SEARCH_ENGINE_URL = "https://google.serper.dev/search";
   var startRow = 2;
   var endRow = 47;
