@@ -24,7 +24,7 @@ Wyniki trafiają do arkusza Google Sheets. Projekt przydatny w email discovery, 
 ## 📁 Struktura
 - `src/main.gs` – główny skrypt Apps Script
 - `sample_data/test_companies.csv` – przykładowe dane wejściowe
-- `screenshots/sample.png` – przykład działania w arkuszu
+- `screenshots/sample_sc.png` – przykład działania w arkuszu
 
 ## 🔗 API
 [Serper.dev – dokumentacja](https://serper.dev)
