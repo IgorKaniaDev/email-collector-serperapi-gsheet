@@ -2,7 +2,7 @@
 
 ## 🎯 Cel projektu
 Zautomatyzowane pobieranie adresów e-mail dla firm z wyników wyszukiwania Google, z wykorzystaniem API Serper.dev i Google Apps Script.  
-Wyniki trafiają do arkusza Google Sheets. Projekt przydatny w lead generation i prostym scrapingu.
+Wyniki trafiają do arkusza Google Sheets. Projekt przydatny w email discovery, automatyzacji kontaktów i testach scrapingu.
 
 ## 🛠 Technologie
 - Google Apps Script  
@@ -32,17 +32,22 @@ Wyniki trafiają do arkusza Google Sheets. Projekt przydatny w lead generation i
 ## 🤖 Pomoc AI
 Projekt zaplanowany i zrealizowany z pomocą ChatGPT – od promptów, przez kod, aż po regex i debug.
 
-## 🖼 Screenshot
-![Zrzut ekranu](screenshots/sample.png)
+## 📸 Screenshot
 
-Zastrzeżenie prawne / Informacja o danych (PL)
+![Działanie skryptu](screenshots/sample_sc.png)
+
+## 🛡️ Zastrzeżenie prawne / Informacja o danych (PL)
+
 Ten projekt służy wyłącznie do celów edukacyjnych i demonstracyjnych. Skrypt pobiera publicznie dostępne dane kontaktowe (adresy e-mail) widoczne na stronach internetowych firm.
 
 Nie wykorzystuję tych danych do kontaktów marketingowych, masowego mailingu ani sprzedaży. Dane nie są gromadzone, przetwarzane ani przechowywane w sposób naruszający przepisy RODO lub Ustawy o świadczeniu usług drogą elektroniczną.
 
 Użytkownicy, którzy planują wykorzystać ten skrypt do działań operacyjnych, powinni samodzielnie ocenić zgodność z obowiązującymi przepisami prawa.
 
-Legal Disclaimer / Data Usage (EN)
+---
+
+## 🛡️ Legal Disclaimer / Data Usage (EN)
+
 This project is for educational and demonstrational purposes only. The script fetches publicly available contact information (email addresses) visible on official company websites.
 
 The collected data is not used for marketing, bulk emailing, or commercial outreach. No personal data is stored, processed, or handled in violation of GDPR or any applicable data protection laws.
